@@ -21,10 +21,10 @@ export const EXPERIENCES = [
   },
   {
     year: "June 2024 - November 2024",
-    role: "Front-End Developer",
+    role: "Front-End/Full Stack Developer",
     company: "Self-Employed/Upwork",
-    description: `As a dedicated front-end developer on Upwork, I specialize in creating visually appealing, responsive, and user-friendly interfaces. My expertise includes working with HTML, CSS, JavaScript, and frameworks like React and Vue.js to bring clients' ideas to life. I focus on delivering high-quality work with attention to detail and ensure projects are completed on time.`,
-    skills: ["HTML5", "Bootstrap", "TailwindCSS", "React"],
+    description: `Experienced Front-End / Full Stack Developer with a proven track record in creating high-quality, responsive web applications and user-friendly interfaces. Skilled in HTML, CSS, JavaScript, and React on the front end, with proficiency in Node.js and Python for back-end development. Known for delivering engaging, seamless UX and optimized performance across devices. Committed to agile methodologies, collaboration, and continuously improving development workflows, I bring both technical expertise and a client-centered approach to every project.`,
+    skills: ["HTML5", "Bootstrap", "TailwindCSS", "React", "Node.js", "Python"],
   },
   {
     year: "May 2023 - April 2024",
@@ -49,7 +49,7 @@ export const EXPERIENCES = [
 
 export const COURSES = [
   {
-    year: "August-September 2024",
+    year: "May 2024 - September 2024",
     role: "Next.JS Bootcamp",
     company: "PapareAcademy, BetaPlan",
     description: ` Building foundational skills in HTML, CSS, JavaScript, and React by developing dynamic web applications and deepening my understanding of modern front-end development practices.`,
@@ -92,7 +92,7 @@ export const PROJECTS = [
     title: "Python Website - Clone",
     image: project3,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
+      "Developed a fully functional clone of the Python website, recreating its design, navigation, and core features to demonstrate advanced front-end capabilities.",
     technologies: ["HTML", "CSS"],
     repo: "https://github.com/jurituga/NextJs_course_27Jul_Juri_Tuga/tree/master/HTML", 
   },
